@@ -19,7 +19,7 @@ pip install django
 
 2. Start the development server
 
-cd to folder final and run command
+## cd to folder final and run command
 
 ```sh
 python manage.py runserver
