@@ -17,9 +17,10 @@ pip install virtualenv
 pip install django
 ```
 
-2. Start the development server
 
 ## 🛠 Go to folder final and run command
+
+2. Start the development server
 
 ```sh
 python manage.py runserver
