@@ -8,9 +8,8 @@ CS310 / 127G | Bangkok University
 Simply run the below commands.
 
 1. Install python latest version
-```sh
+
 https://www.python.org/downloads/
-```
 
 2. Install dependencies
 
